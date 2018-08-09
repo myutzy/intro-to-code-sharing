@@ -27,8 +27,6 @@ Here is a summary of how this works:
 2. Add files to the staging area with `git add [file] or git add *`
 3. Commit staged files to the repository with `git commit -m “[message]”` (This requires repository write-access)
 
-![git-overview](https://user-images.githubusercontent.com/1199572/42889938-8d976dc0-8a79-11e8-9a66-9865bb7a740e.png)
-
 To learn more about setting up and using Git, visit https://help.github.com/articles/set-up-git
 
 ## Introduction to GitHub
